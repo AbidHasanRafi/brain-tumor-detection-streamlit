@@ -30,8 +30,8 @@ We used the popular **Brain Tumor Classification (MRI)** dataset from Kaggle:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/brain-tumor-classifier.git
-   cd brain-tumor-classifier
+   git clone https://github.com/AbidHasanRafi/brain-tumor-detection-streamlit.git
+   cd brain-tumor-detection-streamlit
    ```
 
 2. **Install dependencies:**
@@ -135,7 +135,7 @@ It is **not** intended for real-life clinical diagnosis.
 
 **Abid Hasan Rafi**  
 ECE Student | ML Researcher | Web Programmer  
-[Portfolio](https://abid-hasan-rafi.web.app) | [GitHub](https://github.com/AbidHasanRafi) | [LinkedIn](https://linkedin.com/in/abidhasanrafi)
+[Portfolio](https://abidhasarafi.github.io) | [GitHub](https://github.com/AbidHasanRafi) | [LinkedIn](https://linkedin.com/in/abidhasanrafi)
 
 ---
 
