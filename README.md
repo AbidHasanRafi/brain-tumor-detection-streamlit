@@ -50,7 +50,7 @@ We used the popular **Brain Tumor Classification (MRI)** dataset from Kaggle:
 
 > You can use this section to add your model training script.
 
-### 🏗️ Example Training Structure (Lightweight CNN):
+### Example Training Structure (Lightweight CNN):
 
 ```python
 # model.py
