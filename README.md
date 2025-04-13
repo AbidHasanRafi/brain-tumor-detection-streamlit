@@ -1,12 +1,12 @@
-![](/workspaces/brain-tumor-detection-streamlit/header.png) 
+![header](https://raw.githubusercontent.com/AbidHasanRafi/brain-tumor-detection-streamlit/main/header.png) 
 
-# 🧠 Brain Tumor MRI Classification using CNN
+# Brain Tumor MRI Classification using CNN
 
 This project is a lightweight, interactive Streamlit application for classifying brain MRI scans into **Glioma**, **Meningioma**, or **Pituitary** tumor categories. It uses a custom-trained Convolutional Neural Network (CNN) to analyze grayscale MRI images and predict tumor types with associated confidence scores.
 
 ---
 
-## 🚀 Features
+## Features
 
 - Upload a `.pth` trained PyTorch model dynamically
 - Upload any brain MRI scan image (`.jpg`, `.jpeg`, `.png`)
@@ -17,7 +17,7 @@ This project is a lightweight, interactive Streamlit application for classifying
 
 ---
 
-## 🧑‍⚕️ Dataset
+## Dataset
 
 We used the popular **Brain Tumor Classification (MRI)** dataset from Kaggle:
 
@@ -26,7 +26,7 @@ We used the popular **Brain Tumor Classification (MRI)** dataset from Kaggle:
 
 ---
 
-## 🛠️ Installation & Setup
+## Installation & Setup
 
 1. **Clone the repository:**
    ```bash
@@ -46,9 +46,9 @@ We used the popular **Brain Tumor Classification (MRI)** dataset from Kaggle:
 
 ---
 
-## 🧠 Model Training (Coming Soon)
+## Model Training (Coming Soon)
 
-> ✨ You can use this section to add your model training script.
+> You can use this section to add your model training script.
 
 ### 🏗️ Example Training Structure (Lightweight CNN):
 
@@ -90,7 +90,7 @@ torch.save(model.state_dict(), "brain_tumor_model.pth")
 
 ---
 
-## 🌐 Deployment
+## Deployment
 
 To deploy this app online:
 
@@ -103,7 +103,7 @@ Or deploy to **[Streamlit Cloud](https://streamlit.io/cloud)** with one click.
 
 ---
 
-## 📌 Requirements
+## Requirements
 
 - Python 3.8+
 - PyTorch
@@ -124,21 +124,21 @@ matplotlib
 
 ---
 
-## ⚠️ Disclaimer
+## Disclaimer
 
 This tool is for **educational and demonstrational** purposes only.  
 It is **not** intended for real-life clinical diagnosis.
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Abid Hasan Rafi**  
-🎓 ECE Student | 💻 ML Practitioner | 🌐 Web Developer  
-📎 [Portfolio](https://abid-hasan-rafi.web.app) | 🐙 [GitHub](https://github.com/AbidHasanRafi) | 💼 [LinkedIn](https://linkedin.com/in/abidhasanrafi)
+ECE Student | ML Researcher | Web Programmer  
+[Portfolio](https://abid-hasan-rafi.web.app) | [GitHub](https://github.com/AbidHasanRafi) | [LinkedIn](https://linkedin.com/in/abidhasanrafi)
 
 ---
 
-## ⭐️ Show some love
+## Show some love
 
 If you find this project helpful, feel free to give it a ⭐ on GitHub!
